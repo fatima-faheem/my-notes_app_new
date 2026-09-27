@@ -7,3 +7,4 @@ delete_notes()
 def search_notes():
     return "these are your notes"
 print(search_notes())
+print(".")

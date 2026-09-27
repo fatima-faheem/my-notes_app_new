@@ -4,3 +4,6 @@ print(add_notes("Buy groceries"))
 def delete_notes():
     print("Notes Deletd")
 delete_notes()
+def search_notes():
+    return "these are your notes"
+print(search_notes())
